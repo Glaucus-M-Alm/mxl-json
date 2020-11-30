@@ -14,10 +14,19 @@ fs.readFile("Bella_ciao.mxl", function(err, data) {
         // xml to json
         var json = parser.toJson(data);
         console.log("to json -> %s", json);
-        fs.writeFile('test.json', json, (err) => {
+        var outputFilename = './meu.json';
+
+fs.writeFile(outputFilename, JSON.stringify(json, null, 4), function(err) {
+    if(err) {
+      console.log(err);
+    } else {
+      console.log("JSON saved to " + outputFilename);
+    }
+}); 
+       /*fs.writeFile('test.json', json, (err) => {
             if (err) throw err;
             console.log('The file has been saved!');
-          });
+          });*/
         // json to xml
        /* var xml = parser.toXml(json);
         console.log("back to xml -> %s", xml)*/
