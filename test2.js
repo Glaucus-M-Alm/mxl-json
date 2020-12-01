@@ -6,14 +6,12 @@ fs.readFile("Georgia.mxl", function(err, data) {
     if (err) throw err;
     JSZip.loadAsync(data).then(function (zip) {
       
-      // Read the contents of the 'Hello.txt' file
       zip.file("score.xml").async("string").then(function (data) {
-        // data is "Hello World!"
-        console.log("input -> %s", data)
+        //console.log("input -> %s", data)
        
         // xml to json
         var json = parser.toJson(data);
-        console.log("to json -> %s", json);
+        //console.log("to json -> %s", json);
         var outputFilename = './Georgia.json';
 
 fs.writeFile(outputFilename, JSON.stringify(json, null, 4), function(err) {
