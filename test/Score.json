@@ -1,0 +1,2559 @@
+{
+    "score-partwise": {
+        "version": "3.1",
+        "work": {
+            "work-title": "Abide With Me"
+        },
+        "identification": {
+            "encoding": {
+                "software": "MuseScore 3.5.0",
+                "encoding-date": "2020-10-08",
+                "supports": [
+                    {
+                        "element": "accidental",
+                        "type": "yes"
+                    },
+                    {
+                        "element": "beam",
+                        "type": "yes"
+                    },
+                    {
+                        "element": "print",
+                        "attribute": "new-page",
+                        "type": "yes",
+                        "value": "yes"
+                    },
+                    {
+                        "element": "print",
+                        "attribute": "new-system",
+                        "type": "yes",
+                        "value": "yes"
+                    },
+                    {
+                        "element": "stem",
+                        "type": "yes"
+                    }
+                ]
+            }
+        },
+        "defaults": {
+            "scaling": {
+                "millimeters": "7.05556",
+                "tenths": "40"
+            },
+            "page-layout": {
+                "page-height": "1584",
+                "page-width": "1224",
+                "page-margins": [
+                    {
+                        "type": "even",
+                        "left-margin": "56.6929",
+                        "right-margin": "56.6929",
+                        "top-margin": "56.6929",
+                        "bottom-margin": "113.386"
+                    },
+                    {
+                        "type": "odd",
+                        "left-margin": "56.6929",
+                        "right-margin": "56.6929",
+                        "top-margin": "56.6929",
+                        "bottom-margin": "113.386"
+                    }
+                ]
+            },
+            "word-font": {
+                "font-family": "FreeSerif",
+                "font-size": "10"
+            },
+            "lyric-font": {
+                "font-family": "FreeSerif",
+                "font-size": "11"
+            }
+        },
+        "credit": [
+            {
+                "page": "1",
+                "credit-words": {
+                    "default-x": "612",
+                    "default-y": "1527.31",
+                    "justify": "center",
+                    "valign": "top",
+                    "font-size": "24",
+                    "$t": "Abide With Me"
+                }
+            },
+            {
+                "page": "1",
+                "credit-words": {
+                    "default-x": "612",
+                    "default-y": "1470.61",
+                    "justify": "center",
+                    "valign": "top",
+                    "font-size": "14",
+                    "$t": "(G Major)"
+                }
+            }
+        ],
+        "part-list": {
+            "score-part": {
+                "id": "P1",
+                "part-name": "Piano",
+                "part-abbreviation": "Pno.",
+                "score-instrument": {
+                    "id": "P1-I1",
+                    "instrument-name": "Piano"
+                },
+                "midi-device": {
+                    "id": "P1-I1",
+                    "port": "1"
+                },
+                "midi-instrument": {
+                    "id": "P1-I1",
+                    "midi-channel": "1",
+                    "midi-program": "1",
+                    "volume": "78.7402",
+                    "pan": "0"
+                }
+            }
+        },
+        "part": {
+            "id": "P1",
+            "measure": [
+                {
+                    "number": "1",
+                    "width": "244.28",
+                    "print": {
+                        "system-layout": {
+                            "system-margins": {
+                                "left-margin": "21.00",
+                                "right-margin": "-0.00"
+                            },
+                            "top-system-distance": "170.00"
+                        },
+                        "staff-layout": {
+                            "number": "2",
+                            "staff-distance": "98.51"
+                        }
+                    },
+                    "attributes": {
+                        "divisions": "1",
+                        "key": {
+                            "fifths": "1"
+                        },
+                        "time": {
+                            "beats": "4",
+                            "beat-type": "4"
+                        },
+                        "staves": "2",
+                        "clef": [
+                            {
+                                "number": "1",
+                                "sign": "G",
+                                "line": "2"
+                            },
+                            {
+                                "number": "2",
+                                "sign": "F",
+                                "line": "4"
+                            }
+                        ]
+                    },
+                    "direction": {
+                        "placement": "above",
+                        "direction-type": {
+                            "words": {
+                                "default-x": "-43.08",
+                                "default-y": "2.40",
+                                "relative-y": "20.00",
+                                "font-weight": "bold",
+                                "font-size": "12",
+                                "$t": "Andante"
+                            }
+                        },
+                        "staff": "1",
+                        "sound": {
+                            "tempo": "91.9998"
+                        }
+                    },
+                    "note": [
+                        {
+                            "default-x": "110.24",
+                            "default-y": "-20.00",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "3"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.94",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "begin",
+                                "text": "A"
+                            }
+                        },
+                        {
+                            "default-x": "166.40",
+                            "default-y": "-20.00",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "4"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "3"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "end",
+                                "text": "bide"
+                            }
+                        },
+                        {
+                            "default-x": "206.90",
+                            "default-y": "-25.00",
+                            "pitch": {
+                                "step": "A",
+                                "octave": "4"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "up",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "2"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "with"
+                            }
+                        },
+                        {
+                            "default-x": "107.28",
+                            "default-y": "-143.51",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "8.99",
+                                "default-y": "-40.00",
+                                "relative-x": "-0.91",
+                                "relative-y": "-23.63",
+                                "syllabic": "single",
+                                "text": "G"
+                            }
+                        },
+                        {
+                            "default-x": "107.28",
+                            "default-y": "-133.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "B",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "3"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "107.28",
+                            "default-y": "-123.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "2",
+                    "width": "97.40",
+                    "note": [
+                        {
+                            "default-x": "16.76",
+                            "default-y": "-30.00",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "up",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "1"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.22",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "me"
+                            }
+                        },
+                        {
+                            "default-x": "56.10",
+                            "default-y": "-10.00",
+                            "pitch": {
+                                "step": "D",
+                                "octave": "5"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "5"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.94",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "fast"
+                            }
+                        },
+                        {
+                            "default-x": "13.80",
+                            "default-y": "-143.51",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "8.99",
+                                "default-y": "-40.00",
+                                "relative-x": "-0.91",
+                                "relative-y": "-23.63",
+                                "syllabic": "single",
+                                "text": "G"
+                            }
+                        },
+                        {
+                            "default-x": "13.80",
+                            "default-y": "-133.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "B",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "3"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "13.80",
+                            "default-y": "-123.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "3",
+                    "width": "158.82",
+                    "direction": {
+                        "placement": "above",
+                        "direction-type": {
+                            "rehearsal": {
+                                "default-x": "-19.02",
+                                "default-y": "0.40",
+                                "relative-x": "14.56",
+                                "relative-y": "9.62",
+                                "font-weight": "bold",
+                                "font-size": "14",
+                                "$t": ""
+                            }
+                        },
+                        "staff": "1"
+                    },
+                    "note": [
+                        {
+                            "default-x": "19.02",
+                            "default-y": "-5.00",
+                            "pitch": {
+                                "step": "E",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "5"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "fals"
+                            }
+                        },
+                        {
+                            "default-x": "53.09",
+                            "default-y": "-10.00",
+                            "pitch": {
+                                "step": "D",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "5"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "the"
+                            }
+                        },
+                        {
+                            "default-x": "87.16",
+                            "default-y": "-10.00",
+                            "pitch": {
+                                "step": "D",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "5"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "begin",
+                                "text": "e"
+                            }
+                        },
+                        {
+                            "default-x": "121.24",
+                            "default-y": "-15.00",
+                            "pitch": {
+                                "step": "C",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "4"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "middle",
+                                "text": "ven"
+                            }
+                        },
+                        {
+                            "default-x": "15.70",
+                            "default-y": "-143.51",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "9.90",
+                                "default-y": "-40.00",
+                                "relative-y": "-23.63",
+                                "syllabic": "single",
+                                "text": "C"
+                            }
+                        },
+                        {
+                            "default-x": "15.70",
+                            "default-y": "-128.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "C",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "2"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "15.70",
+                            "default-y": "-118.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "E",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "4",
+                    "width": "61.82",
+                    "note": [
+                        {
+                            "default-x": "16.50",
+                            "default-y": "-20.00",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "1",
+                            "type": "whole",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "3"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "9.90",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "end",
+                                "text": "tide"
+                            }
+                        },
+                        {
+                            "default-x": "16.50",
+                            "default-y": "-143.51",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "8.99",
+                                "default-y": "-40.00",
+                                "relative-x": "-0.91",
+                                "relative-y": "-23.63",
+                                "syllabic": "single",
+                                "text": "G"
+                            }
+                        },
+                        {
+                            "default-x": "16.50",
+                            "default-y": "-133.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "B",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "3"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "16.50",
+                            "default-y": "-123.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "5",
+                    "width": "158.46",
+                    "note": [
+                        {
+                            "default-x": "19.86",
+                            "default-y": "-20.00",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "3"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.94",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "The"
+                            }
+                        },
+                        {
+                            "default-x": "79.75",
+                            "default-y": "-15.00",
+                            "pitch": {
+                                "step": "C",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "4"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "dark"
+                            }
+                        },
+                        {
+                            "default-x": "119.65",
+                            "default-y": "-10.00",
+                            "pitch": {
+                                "step": "D",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "5"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "ness"
+                            }
+                        },
+                        {
+                            "default-x": "16.90",
+                            "default-y": "-143.51",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "8.99",
+                                "default-y": "-40.00",
+                                "relative-x": "-0.91",
+                                "relative-y": "-23.63",
+                                "syllabic": "single",
+                                "text": "G"
+                            }
+                        },
+                        {
+                            "default-x": "16.90",
+                            "default-y": "-133.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "B",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "3"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "16.90",
+                            "default-y": "-123.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "6",
+                    "width": "113.14",
+                    "direction": {
+                        "placement": "above",
+                        "direction-type": {
+                            "rehearsal": {
+                                "default-x": "-18.22",
+                                "default-y": "0.40",
+                                "relative-x": "16.38",
+                                "relative-y": "12.62",
+                                "font-weight": "bold",
+                                "font-size": "14",
+                                "$t": ""
+                            }
+                        },
+                        "staff": "1"
+                    },
+                    "note": [
+                        {
+                            "default-x": "17.86",
+                            "default-y": "-5.00",
+                            "pitch": {
+                                "step": "E",
+                                "octave": "5"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "5"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.94",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "begin",
+                                "text": "dee"
+                            }
+                        },
+                        {
+                            "default-x": "64.52",
+                            "default-y": "-10.00",
+                            "pitch": {
+                                "step": "D",
+                                "octave": "5"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "5"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.94",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "end",
+                                "text": "pens"
+                            }
+                        },
+                        {
+                            "default-x": "14.90",
+                            "default-y": "-143.51",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "9.90",
+                                "default-y": "-40.00",
+                                "relative-y": "-23.63",
+                                "syllabic": "single",
+                                "text": "C"
+                            }
+                        },
+                        {
+                            "default-x": "14.90",
+                            "default-y": "-128.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "C",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "2"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "14.90",
+                            "default-y": "-118.51",
+                            "chord": {},
+                            "pitch": {
+                                "step": "E",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "7",
+                    "width": "188.60",
+                    "note": [
+                        {
+                            "default-x": "24.82",
+                            "default-y": "-15.00",
+                            "pitch": {
+                                "step": "C",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "4"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "Lord"
+                            }
+                        },
+                        {
+                            "default-x": "67.92",
+                            "default-y": "-25.00",
+                            "pitch": {
+                                "step": "A",
+                                "octave": "4"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "up",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "2"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "with"
+                            }
+                        },
+                        {
+                            "default-x": "107.61",
+                            "default-y": "-20.00",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "4"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "3"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "me"
+                            }
+                        },
+                        {
+                            "default-x": "147.30",
+                            "default-y": "-15.00",
+                            "pitch": {
+                                "step": "C",
+                                "alter": "1",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "accidental": "sharp",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "4"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "begin",
+                                "text": "a"
+                            }
+                        },
+                        {
+                            "default-x": "24.46",
+                            "default-y": "-138.51",
+                            "pitch": {
+                                "step": "A",
+                                "octave": "3"
+                            },
+                            "duration": "2",
+                            "voice": "5",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "4"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.94",
+                                "default-y": "-40.00",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "A"
+                            }
+                        },
+                        {
+                            "default-x": "107.25",
+                            "default-y": "-128.51",
+                            "pitch": {
+                                "step": "C",
+                                "alter": "1",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "5",
+                            "type": "half",
+                            "accidental": "sharp",
+                            "stem": "down",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "2"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "12.77",
+                                "default-y": "-40.00",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "C#"
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "8",
+                    "width": "67.10",
+                    "note": [
+                        {
+                            "default-x": "18.90",
+                            "default-y": "-10.00",
+                            "pitch": {
+                                "step": "D",
+                                "octave": "5"
+                            },
+                            "duration": "4",
+                            "voice": "1",
+                            "type": "whole",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "5"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "9.90",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "end",
+                                "text": "bide"
+                            }
+                        },
+                        {
+                            "default-x": "18.90",
+                            "default-y": "-123.51",
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "9.90",
+                                "default-y": "-40.00",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "D"
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "9",
+                    "width": "207.12",
+                    "print": {
+                        "new-system": "yes",
+                        "system-layout": {
+                            "system-margins": {
+                                "left-margin": "21.00",
+                                "right-margin": "-0.00"
+                            },
+                            "system-distance": "150.00"
+                        },
+                        "staff-layout": {
+                            "number": "2",
+                            "staff-distance": "104.73"
+                        }
+                    },
+                    "note": [
+                        {
+                            "default-x": "89.15",
+                            "default-y": "-20.00",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "3"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.94",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "When"
+                            }
+                        },
+                        {
+                            "default-x": "140.11",
+                            "default-y": "-20.00",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "4"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "3"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "begin",
+                                "text": "o"
+                            }
+                        },
+                        {
+                            "default-x": "171.74",
+                            "default-y": "-25.00",
+                            "pitch": {
+                                "step": "A",
+                                "octave": "4"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "up",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "2"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "end",
+                                "text": "ther"
+                            }
+                        },
+                        {
+                            "default-x": "86.19",
+                            "default-y": "-149.73",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "8.99",
+                                "default-y": "-40.00",
+                                "relative-x": "-0.91",
+                                "relative-y": "-23.63",
+                                "syllabic": "single",
+                                "text": "G"
+                            }
+                        },
+                        {
+                            "default-x": "86.19",
+                            "default-y": "-139.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "B",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "3"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "86.19",
+                            "default-y": "-129.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "10",
+                    "width": "98.51",
+                    "note": [
+                        {
+                            "default-x": "21.46",
+                            "default-y": "-30.00",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "up",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "1"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.22",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "help"
+                            }
+                        },
+                        {
+                            "default-x": "59.00",
+                            "default-y": "-10.00",
+                            "pitch": {
+                                "step": "D",
+                                "octave": "5"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "5"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.94",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "ers"
+                            }
+                        },
+                        {
+                            "default-x": "18.50",
+                            "default-y": "-149.73",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "8.99",
+                                "default-y": "-40.00",
+                                "relative-x": "-0.91",
+                                "relative-y": "-23.63",
+                                "syllabic": "single",
+                                "text": "G"
+                            }
+                        },
+                        {
+                            "default-x": "18.50",
+                            "default-y": "-139.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "B",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "3"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "18.50",
+                            "default-y": "-129.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "11",
+                    "width": "202.67",
+                    "note": [
+                        {
+                            "default-x": "18.22",
+                            "default-y": "-10.00",
+                            "pitch": {
+                                "step": "D",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "5"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "fail"
+                            }
+                        },
+                        {
+                            "default-x": "63.93",
+                            "default-y": "-15.00",
+                            "pitch": {
+                                "step": "C",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "4"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "and"
+                            }
+                        },
+                        {
+                            "default-x": "109.64",
+                            "default-y": "-15.00",
+                            "pitch": {
+                                "step": "C",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "4"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "begin",
+                                "text": "com"
+                            }
+                        },
+                        {
+                            "default-x": "155.36",
+                            "default-y": "-20.00",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "4"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "3"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "end",
+                                "text": "forts"
+                            }
+                        },
+                        {
+                            "default-x": "14.90",
+                            "default-y": "-149.73",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "9.90",
+                                "default-y": "-40.00",
+                                "relative-y": "-23.63",
+                                "syllabic": "single",
+                                "text": "C"
+                            }
+                        },
+                        {
+                            "default-x": "14.90",
+                            "default-y": "-134.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "C",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "2"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "14.90",
+                            "default-y": "-124.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "E",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "12",
+                    "width": "77.88",
+                    "note": [
+                        {
+                            "default-x": "32.31",
+                            "default-y": "-25.00",
+                            "pitch": {
+                                "step": "A",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "1",
+                            "type": "whole",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "2"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "3.26",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "flee"
+                            }
+                        },
+                        {
+                            "default-x": "32.31",
+                            "default-y": "-154.73",
+                            "pitch": {
+                                "step": "F",
+                                "alter": "1",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "7.71",
+                                "default-y": "-40.00",
+                                "relative-x": "-7.28",
+                                "relative-y": "-24.54",
+                                "syllabic": "single",
+                                "text": "D7"
+                            }
+                        },
+                        {
+                            "default-x": "13.80",
+                            "default-y": "-134.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "C",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "2"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "32.31",
+                            "default-y": "-129.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "13",
+                    "width": "143.64",
+                    "note": [
+                        {
+                            "default-x": "35.27",
+                            "default-y": "-25.00",
+                            "pitch": {
+                                "step": "A",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "up",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "2"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.22",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "Help"
+                            }
+                        },
+                        {
+                            "default-x": "82.66",
+                            "default-y": "-20.00",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "4"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "3"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "of"
+                            }
+                        },
+                        {
+                            "default-x": "112.06",
+                            "default-y": "-15.00",
+                            "pitch": {
+                                "step": "C",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "4"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "the"
+                            }
+                        },
+                        {
+                            "default-x": "32.31",
+                            "default-y": "-154.73",
+                            "pitch": {
+                                "step": "F",
+                                "alter": "1",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "7.71",
+                                "default-y": "-40.00",
+                                "relative-x": "-7.28",
+                                "relative-y": "-24.54",
+                                "syllabic": "single",
+                                "text": "D7"
+                            }
+                        },
+                        {
+                            "default-x": "13.80",
+                            "default-y": "-134.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "C",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "2"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "32.31",
+                            "default-y": "-129.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "14",
+                    "width": "174.33",
+                    "note": [
+                        {
+                            "default-x": "23.96",
+                            "default-y": "-20.00",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "4"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "3"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "begin",
+                                "text": "help"
+                            }
+                        },
+                        {
+                            "default-x": "64.65",
+                            "default-y": "-25.00",
+                            "pitch": {
+                                "step": "A",
+                                "octave": "4"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "up",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "2"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "8.60",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "end",
+                                "text": "less,"
+                            }
+                        },
+                        {
+                            "default-x": "100.68",
+                            "default-y": "-30.00",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "4"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "up",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "1"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "8.91",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "oh,"
+                            }
+                        },
+                        {
+                            "default-x": "136.71",
+                            "default-y": "-15.00",
+                            "pitch": {
+                                "step": "C",
+                                "octave": "5"
+                            },
+                            "duration": "1",
+                            "voice": "1",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "4"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.58",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "A"
+                            }
+                        },
+                        {
+                            "default-x": "23.60",
+                            "default-y": "-149.73",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "3"
+                            },
+                            "duration": "2",
+                            "voice": "5",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "0.57",
+                                "default-y": "-40.00",
+                                "relative-x": "-6.37",
+                                "relative-y": "10.05",
+                                "syllabic": "single",
+                                "text": "G"
+                            }
+                        },
+                        {
+                            "default-x": "23.60",
+                            "default-y": "-139.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "B",
+                                "octave": "3"
+                            },
+                            "duration": "2",
+                            "voice": "5",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "3"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "23.60",
+                            "default-y": "-129.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "5",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "100.68",
+                            "default-y": "-139.73",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "3"
+                            },
+                            "duration": "1",
+                            "voice": "5",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "3"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "136.71",
+                            "default-y": "-144.73",
+                            "pitch": {
+                                "step": "A",
+                                "octave": "3"
+                            },
+                            "duration": "1",
+                            "voice": "5",
+                            "type": "quarter",
+                            "stem": "down",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "4"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "15",
+                    "width": "116.19",
+                    "note": [
+                        {
+                            "default-x": "21.86",
+                            "default-y": "-20.00",
+                            "pitch": {
+                                "step": "B",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "3"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.94",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "bide"
+                            }
+                        },
+                        {
+                            "default-x": "68.04",
+                            "default-y": "-25.00",
+                            "pitch": {
+                                "step": "A",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "1",
+                            "type": "half",
+                            "stem": "up",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "2"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "6.22",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "with"
+                            }
+                        },
+                        {
+                            "default-x": "21.86",
+                            "default-y": "-129.73",
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "5",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "68.04",
+                            "default-y": "-154.73",
+                            "pitch": {
+                                "step": "F",
+                                "alter": "1",
+                                "octave": "3"
+                            },
+                            "duration": "2",
+                            "voice": "5",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "3.85",
+                                "default-y": "-40.00",
+                                "relative-x": "-8.19",
+                                "relative-y": "-29.09",
+                                "syllabic": "single",
+                                "text": "D7"
+                            }
+                        },
+                        {
+                            "default-x": "55.45",
+                            "default-y": "-134.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "C",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "5",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "2"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "68.04",
+                            "default-y": "-129.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "2",
+                            "voice": "5",
+                            "type": "half",
+                            "stem": "down",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    }
+                },
+                {
+                    "number": "16",
+                    "width": "69.27",
+                    "note": [
+                        {
+                            "default-x": "13.80",
+                            "default-y": "-30.00",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "1",
+                            "type": "whole",
+                            "staff": "1",
+                            "notations": {
+                                "technical": {
+                                    "fingering": "1"
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "5.21",
+                                "default-y": "-47.10",
+                                "relative-y": "-30.00",
+                                "syllabic": "single",
+                                "text": "me."
+                            }
+                        },
+                        {
+                            "default-x": "13.80",
+                            "default-y": "-149.73",
+                            "pitch": {
+                                "step": "G",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "5"
+                                    }
+                                }
+                            },
+                            "lyric": {
+                                "number": "1",
+                                "default-x": "8.99",
+                                "default-y": "-40.00",
+                                "relative-x": "-0.91",
+                                "relative-y": "-23.63",
+                                "syllabic": "single",
+                                "text": "G"
+                            }
+                        },
+                        {
+                            "default-x": "13.80",
+                            "default-y": "-139.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "B",
+                                "octave": "3"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "3"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "default-x": "13.80",
+                            "default-y": "-129.73",
+                            "chord": {},
+                            "pitch": {
+                                "step": "D",
+                                "octave": "4"
+                            },
+                            "duration": "4",
+                            "voice": "5",
+                            "type": "whole",
+                            "staff": "2",
+                            "notations": {
+                                "technical": {
+                                    "fingering": {
+                                        "placement": "below",
+                                        "$t": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "backup": {
+                        "duration": "4"
+                    },
+                    "barline": {
+                        "location": "right",
+                        "bar-style": "light-heavy"
+                    }
+                }
+            ]
+        }
+    }
+}
