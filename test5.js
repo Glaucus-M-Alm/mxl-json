@@ -14,7 +14,7 @@ fs.readFile(arq, function(err, data) {
         // xml to json(pega a string e a formata no padrão JSON)
         var json = parser.toJson(data);
         //console.log("to json -> %s", json);
-        //Nome do arquivo desejado
+        //caminho do arquivo desejado
         var outputFilename = './test/Score.json/';
 //cria o arquivo com o nome desejado JSON.stringfy torna o JSON bonitinho
 fs.writeFile(outputFilename, JSON.stringify(json, null, 4), function(err) {
