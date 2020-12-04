@@ -3,7 +3,7 @@ var fs = require("fs");
 var JSZip = require("jszip");
 var arq = "./test/Abide_With_Me.mxl/";
  function convert(arq){
-     //lê o arquivo mxl
+     //lê o arquivo mxl(se fosse um zip também funcionaria)arq TEM que ser o caminho do arquivo
 fs.readFile(arq, function(err, data) {
     if (err) throw err;
     //pega dentro dos conteúdos do mxl o score.xml(partitura) e o transforma em uma string
