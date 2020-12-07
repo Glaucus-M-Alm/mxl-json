@@ -16,7 +16,7 @@ fs.readFile(arqu, function(err, data) {
         //console.log("to json -> %s", json);
         //caminho do arquivo desejado
         var outputFilename = './test/Score.json/';
-//cria o arquivo com o nome desejado JSON.stringfy torna o JSON bonitinho
+//cria o arquivo com o nome desejado JSON.stringfy torna o JSON bonitinho e uma string e "joga" ele no arquivo
 fs.writeFile(outputFilename, JSON.stringify(json, null, 4), function(err) {
     if(err) {
       console.log(err);
