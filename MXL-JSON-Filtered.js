@@ -2,12 +2,7 @@ var parser = require('xml2json');
 var fs = require("fs");
 var JSZip = require("jszip");
 var arq = "./Jingle_Bells.mxl/";
-function jsonParser(stringValue) {
 
-    var string = JSON.stringify(stringValue);
-    var objectValue = JSON.parse(string);
-    return objectValue["note"];
- }
  function convert(arqu){
      //lê o arquivo mxl(se fosse um zip também funcionaria)arq TEM que ser o caminho do arquivo
 fs.readFile(arqu, function(err, data) {
