@@ -20,13 +20,13 @@ fs.readFile(arqu, function(err, data) {
         // xml to json(pega a string e a formata no padrão JSON)
         var json = parser.toJson(data);
         [json].map((elt) => {
-          /*fs.writeFile("Jingle_Bells.json", JSON.stringify(elt["score-partwise"]["part"]["measure"][0]["direction"][1]["sound"], null, 4), function(err) {
+          fs.writeFile("test.json", JSON.stringify(elt["score-partwise"]["part"]["measure"][0]["direction"]["direction-type"]["words"]["$t"], null, 4), function(err) {
             if(err) {
               console.log(err);
             } else {
               console.log("JSON saved");
             }
-        }); */
+        }); 
           var length=elt["score-partwise"]["part"]["measure"].length;
           console.log(length);
 
@@ -34,7 +34,7 @@ fs.readFile(arqu, function(err, data) {
           for(var j =0; j<elt["score-partwise"]["part"]["measure"][i]["note"].length; j++){
           console.log(elt["score-partwise"]["part"]["measure"][i]["note"][j]["pitch"]);
           
-          fs.appendFile("filee.json",JSON.stringify(elt["score-partwise"]["part"]["measure"][i]["note"][j]["pitch"], null, 4)+'"duration":'+JSON.stringify(elt["score-partwise"]["part"]["measure"][i]["note"][j]["duration"], null, 4),function(err){
+          fs.appendFile("test.json",JSON.stringify(elt["score-partwise"]["part"]["measure"][i]["note"][j]["pitch"], null, 4)+'"duration":'+JSON.stringify(elt["score-partwise"]["part"]["measure"][i]["note"][j]["duration"], null, 4),function(err){
             if(err) throw err;
             console.log('IS WRITTEN')
             });
